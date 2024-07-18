@@ -1,0 +1,127 @@
+.body{
+    background-color: black;
+}
+.logo{
+    width: 150px;
+}
+.navbar{
+    background-color: #D30317;   
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#time-line{
+    content: '';
+    position: absolute;
+    background: white;
+    width: 2px;
+    left: 50%;
+}
+
+.timeline-item{
+    position: relative;
+    margin: 20px;
+    width: 300px;
+    padding: 20px;
+    color: white;
+    opacity: 0;
+
+}
+
+/*pares*/
+.timeline-item:nth-child(odd)::before{
+    content: '';
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    left: -30px;
+    
+}
+.timeline-item:nth-child(odd){
+    float:left;
+    border-radius: 0 20px 20px 20px;
+    text-align: left;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255,255,255,0.3);
+    
+}
+
+.timeline-item:nth-child(odd)::after{
+    content: '';
+    position: absolute;
+    background: white;
+    width: 10px;
+    height: 2px;
+    left: -10px;
+    top: 25px;
+}
+
+/*impares*/
+.timeline-item:nth-child(even){
+    float:right;
+    border-radius: 20px 0px 20px 20px;
+    text-align: right;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255,255,255,0.3);
+}
+.timeline-item:nth-child(even)::before{
+    content: '';
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    right: -30px;
+    
+}
+
+.timeline-item:nth-child(even)::after{
+    content: '';
+    position: absolute;
+    background: white;
+    width: 10px;
+    height: 2px;
+    right: -10px;
+    top: 25px;
+}
+
+
+.phase{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  display:inline-flex;
+  width: 100px;
+  margin: 20px;
+  border: 2px solid white;
+  padding: 5px;
+}
+
+/*animacion*/
+._show{
+    opacity: 1;
+    animation: __show 1s cubic-bezier(.99,-.7,.2,1.9);
+}
+._hide{
+    opacity: 0;
+    animation: __hide 1s cubic-bezier(.99,-.7,.2,1.9);
+}
+@keyframes __show{
+    0% {transform: translateY(500px); opacity: 0;}
+    100%{transform: translateY(0);opacity: 1;}
+}
+@keyframes __hide{
+    0% {transform: translateY(0); opacity: 1;}
+    100%{transform: translateY(500px);opacity: 0;}
+}
+
+.imagen{
+    width: 100px;
+}

@@ -1,0 +1,399 @@
+{
+  "Fase 1": [
+    {
+      "poster": "/Cronologia/img/capitanamerica2011.jpg",
+      "nombre": "Captain America: The First Avenger",
+      "año": 2011,
+      "sinopsis": "Es el año 1941 y el mundo está en plena guerra. Steve Rogers (Chris Evans) quiere hacer su parte y unirse a las fuerzas armadas, pero el ejército lo rechaza debido a su estado físico. Finalmente, se ofrece como voluntario para un programa experimental que lo convierte en el supersoldado conocido como Capitán América.",
+      "protagonistas": "Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones",
+      "dirigida_por": "Joe Johnston"
+      
+    },
+    {
+      "nombre": "Captain Marvel",
+      "año": 2019,
+      "sinopsis": "Carol Danvers se convierte en uno de los héroes más poderosos del universo cuando la Tierra se encuentra atrapada en medio de una guerra galáctica entre dos razas alienígenas.",
+      "protagonistas": "Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Jude Law",
+      "dirigida_por": "Anna Boden, Ryan Fleck",
+      "poster": "/Cronologia/img/CaptainMarvel2019.jpeg"
+    },
+    {
+      "nombre": "Iron Man",
+      "año": 2008,
+      "sinopsis": "Tony Stark, un multimillonario e inventor, construye un traje avanzado de armadura para escapar de sus captores y se convierte en el superhéroe Iron Man.",
+      "protagonistas": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges",
+      "dirigida_por": "Jon Favreau",
+      "poster": "/Cronologia/img/ironMan1.jpg"
+    },
+    {
+      "nombre": "Iron Man 2",
+      "año": 2010,
+      "sinopsis": "Tony Stark enfrenta presiones del gobierno, el público y sus propios demonios para compartir su tecnología con el ejército mientras un nuevo enemigo emerge.",
+      "protagonistas": "Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson",
+      "dirigida_por": "Jon Favreau",
+      "poster": "/Cronologia/img/iron-man-2.jpg"
+    },
+    {
+      "nombre": "The Incredible Hulk",
+      "año": 2008,
+      "sinopsis": "Bruce Banner busca una cura para su condición que lo convierte en el monstruo Hulk, mientras es perseguido por el ejército estadounidense.",
+      "protagonistas": "Edward Norton, Liv Tyler, Tim Roth, William Hurt",
+      "dirigida_por": "Louis Leterrier",
+      "poster": "/Cronologia/img/hulk2008.jpg"
+    },
+    {
+      "nombre": "Thor",
+      "año": 2011,
+      "sinopsis": "Thor, el príncipe de Asgard, es desterrado a la Tierra donde debe aprender humildad y lo que significa ser un verdadero héroe.",
+      "protagonistas": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",
+      "dirigida_por": "Kenneth Branagh",
+      "poster": "/Cronologia/img/thor2011.jpg"
+    },
+    {
+      "nombre": "The Avengers",
+      "año": 2012,
+      "sinopsis": "Nick Fury, director de S.H.I.E.L.D., reúne a un equipo de superhéroes para detener a Loki y su invasión alienígena.",
+      "protagonistas": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+      "dirigida_por": "Joss Whedon",
+      "poster": "/Cronologia/img/TheAvengers2012.jpg"
+    }
+  ],
+    "Fase 2": [
+      {
+        "nombre": "Iron Man 3",
+        "año": 2013,
+        "sinopsis": "Sucedió seis meses después de los eventos de 'The Avengers', Tony Stark enfrenta las consecuencias de su vida como Iron Man cuando un enemigo conocido como el Mandarín ataca, empujándolo al borde de la desesperación.",
+        "protagonistas": "Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce",
+        "dirigida_por": "Shane Black",
+        "poster": "/Cronologia/img/TheAvengers2012.jpg"
+      },
+      {
+        "nombre": "Thor: The Dark World",
+        "año": 2013,
+        "sinopsis": "Thor lucha por restablecer el orden en el cosmos cuando una antigua raza liderada por el vengativo Malekith amenaza con sumir al universo en la oscuridad.",
+        "protagonistas": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",
+        "dirigida_por": "Alan Taylor",
+         "poster": "/Cronologia/img/TheAvengers2012.jpg"
+      },
+      {
+        "nombre": "Captain America: The Winter Soldier",
+        "año": 2014,
+        "sinopsis": "Steve Rogers, ahora trabajando para S.H.I.E.L.D., se enfrenta a un nuevo enemigo en la forma del misterioso Winter Soldier mientras descubre una conspiración que amenaza la seguridad mundial.",
+        "protagonistas": "Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie",
+        "dirigida_por": "Anthony Russo, Joe Russo",
+        "poster": "/Cronologia/img/TheAvengers2012.jpg"
+       },
+      {
+        "nombre": "Guardians of the Galaxy",
+        "año": 2014,
+        "sinopsis": "Peter Quill forma una incompleta alianza con un grupo de inadaptados cósmicos cuando roba un orbe codiciado por el villano Ronan el Acusador.",
+        "protagonistas": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper",
+        "dirigida_por": "James Gunn",
+         "poster": "/Cronologia/img/TheAvengers2012.jpg"
+      },
+      {
+        "nombre": "Guardians of the Galaxy Vol. 2",
+        "año": 2017,
+        "sinopsis": "Sucede pocos meses después de la primera. Los Guardianes deben luchar para mantener unida su nueva familia mientras descubren el verdadero linaje de Peter Quill.",
+        "protagonistas": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper",
+        "dirigida_por": "James Gunn",
+        "poster": "https://m.media-amazon.com/images/I/81Ki6bbwpOL._AC_SY679_.jpg"
+      },
+      {
+        "nombre": "Avengers: Age of Ultron",
+        "año": 2015,
+        "sinopsis": "Los Vengadores deben unirse nuevamente para derrotar al robot Ultron, que planea la extinción humana.",
+        "protagonistas": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
+        "dirigida_por": "Joss Whedon",
+        "poster": "https://m.media-amazon.com/images/I/81P1rCUh6FL._AC_SY679_.jpg"
+      },
+      {
+        "nombre": "Ant-Man",
+        "año": 2015,
+        "sinopsis": "El ladrón Scott Lang se convierte en el superhéroe Ant-Man cuando recibe una tecnología que le permite reducir su tamaño pero aumentar su fuerza, y debe ayudar a su mentor a evitar que dicha tecnología caiga en manos equivocadas.",
+        "protagonistas": "Paul Rudd, Michael Douglas, Evangeline Lilly, Corey Stoll",
+        "dirigida_por": "Peyton Reed",
+        "poster": "https://m.media-amazon.com/images/I/71gD8ZW-K4L._AC_SY679_.jpg"
+      }
+    ],
+    
+      "Fase 3": [
+        {
+          "nombre": "Captain America: Civil War",
+          "año": 2016,
+          "sinopsis": "Un desacuerdo político fractura a los Vengadores en dos bandos: uno liderado por Steve Rogers y el otro por Tony Stark, en una batalla sobre la responsabilidad y la libertad.",
+          "protagonistas": "Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",
+          "dirigida_por": "Anthony Russo, Joe Russo",
+          "poster": "https://m.media-amazon.com/images/I/81-pzEXyNmL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Black Widow",
+          "año": 2021,
+          "sinopsis": "Natasha Romanoff se enfrenta a los aspectos más oscuros de su cuenta pendiente cuando una peligrosa conspiración con vínculos a su pasado surge.",
+          "protagonistas": "Scarlett Johansson, Florence Pugh, David Harbour, Rachel Weisz",
+          "dirigida_por": "Cate Shortland",
+          "poster": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Black Panther",
+          "año": 2018,
+          "sinopsis": "T'Challa, el rey de Wakanda, asume el manto de Black Panther y lucha contra enemigos que amenazan con destruir su nación.",
+          "protagonistas": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira",
+          "dirigida_por": "Ryan Coogler",
+          "poster": "https://m.media-amazon.com/images/I/81BuQn77mXL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Spider-Man: Homecoming",
+          "año": 2017,
+          "sinopsis": "Peter Parker, emocionado por su experiencia con los Vengadores, intenta equilibrar su vida como un estudiante de secundaria con su identidad como el superhéroe Spider-Man.",
+          "protagonistas": "Tom Holland, Michael Keaton, Robert Downey Jr., Marisa Tomei",
+          "dirigida_por": "Jon Watts",
+          "poster": "https://m.media-amazon.com/images/I/71yxgAYFQWL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Doctor Strange",
+          "año": 2016,
+          "sinopsis": "El brillante pero arrogante cirujano Stephen Strange sufre un accidente que destruye su carrera. En su búsqueda de curación, encuentra a The Ancient One y se convierte en un poderoso hechicero.",
+          "protagonistas": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",
+          "dirigida_por": "Scott Derrickson",
+          "poster": "https://m.media-amazon.com/images/I/81sTtL7emvL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Thor: Ragnarok",
+          "año": 2017,
+          "sinopsis": "Thor debe escapar de la prisión de Sakaar y salvar Asgard de la destrucción inminente por parte de Hela, la diosa de la muerte.",
+          "protagonistas": "Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Mark Ruffalo",
+          "dirigida_por": "Taika Waititi",
+          "poster": "https://m.media-amazon.com/images/I/91CmVj4BthL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Ant-Man and The Wasp",
+          "año": 2018,
+          "sinopsis": "Scott Lang lidia con las consecuencias de sus elecciones como superhéroe y padre mientras lucha junto a The Wasp para descubrir secretos de su pasado.",
+          "protagonistas": "Paul Rudd, Evangeline Lilly, Michael Peña, Walton Goggins",
+          "dirigida_por": "Peyton Reed",
+          "poster": "https://m.media-amazon.com/images/I/81kIjPIz8IL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Avengers: Infinity War",
+          "año": 2018,
+          "sinopsis": "Los Vengadores y sus aliados deben sacrificar todo en un intento de derrotar al poderoso Thanos antes de que su blitz de devastación y ruina ponga fin al universo.",
+          "protagonistas": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
+          "dirigida_por": "Anthony Russo, Joe Russo",
+          "poster": "https://m.media-amazon.com/images/I/81AiA1YYU4L._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Avengers: Endgame",
+          "año": 2019,
+          "sinopsis": "Después de la devastadora derrota ante Thanos, los Vengadores restantes deben encontrar la manera de traer de vuelta a sus aliados desaparecidos y restaurar el equilibrio del universo.",
+          "protagonistas": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+          "dirigida_por": "Anthony Russo, Joe Russo",
+          "poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SY679_.jpg"
+        },
+        {
+          "nombre": "Spider-Man: Far From Home",
+          "año": 2019,
+          "sinopsis": "Peter Parker va de viaje escolar a Europa, pero su plan de dejar atrás sus actividades de superhéroe se descarrila cuando Nick Fury lo recluta para una misión que involucra a criaturas elementales.",
+          "protagonistas": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal, Marisa Tomei",
+          "dirigida_por": "Jon Watts",
+          "poster": "https://m.media-amazon.com/images/I/71V05l5EDyL._AC_SY679_.jpg"
+        }
+      ],
+        "Fase 4": [
+          {
+            "nombre": "WandaVision",
+            "año": 2021,
+            "sinopsis": "Ambientada después de los eventos de 'Endgame', Wanda Maximoff y Vision intentan llevar una vida suburbana ideal, pero pronto se dan cuenta de que nada es lo que parece.",
+            "protagonistas": "Elizabeth Olsen, Paul Bettany, Kathryn Hahn, Teyonah Parris",
+            "dirigida_por": "Matt Shakman",
+            "poster": "https://m.media-amazon.com/images/I/71D1rZ5D9dL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "The Falcon and the Winter Soldier",
+            "año": 2021,
+            "sinopsis": "Sam Wilson y Bucky Barnes se unen en una aventura global que pone a prueba sus habilidades y paciencia en una serie post-Endgame.",
+            "protagonistas": "Anthony Mackie, Sebastian Stan, Wyatt Russell, Erin Kellyman",
+            "dirigida_por": "Kari Skogland",
+            "poster": "https://m.media-amazon.com/images/I/71dHAWZgY-L._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Loki",
+            "año": 2021,
+            "sinopsis": "El dios de las travesuras, Loki, sale de la sombra de su hermano en esta serie que sigue los eventos después de 'Endgame'.",
+            "protagonistas": "Tom Hiddleston, Owen Wilson, Gugu Mbatha-Raw, Sophia Di Martino",
+            "dirigida_por": "Kate Herron",
+            "poster": "https://m.media-amazon.com/images/I/81Eiq2zUIeL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "What If...?",
+            "año": 2021,
+            "sinopsis": "Explora momentos cruciales del UCM y los reimagina de formas inesperadas.",
+            "protagonistas": "Jeffrey Wright, Chadwick Boseman, Hayley Atwell, Josh Brolin",
+            "dirigida_por": "Bryan Andrews",
+            "poster": "https://m.media-amazon.com/images/I/81aA-3NWexL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Shang-Chi and the Legend of the Ten Rings",
+            "año": 2021,
+            "sinopsis": "Shang-Chi se ve obligado a confrontar el pasado que pensó que había dejado atrás cuando es atraído a la red de la misteriosa organización de los Diez Anillos.",
+            "protagonistas": "Simu Liu, Awkwafina, Tony Leung, Michelle Yeoh",
+            "dirigida_por": "Destin Daniel Cretton",
+            "poster": "https://m.media-amazon.com/images/I/91lPQC8GjpL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Eternals",
+            "año": 2021,
+            "sinopsis": "Los Eternals, una raza de seres inmortales con poderes sobrehumanos, emergen de su escondite para proteger la Tierra de sus enemigos, los Deviants.",
+            "protagonistas": "Gemma Chan, Richard Madden, Angelina Jolie, Salma Hayek",
+            "dirigida_por": "Chloé Zhao",
+            "poster": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Hawkeye",
+            "año": 2021,
+            "sinopsis": "Clint Barton, también conocido como Hawkeye, pasa la batuta a una nueva generación mientras enfrenta a enemigos de su pasado.",
+            "protagonistas": "Jeremy Renner, Hailee Steinfeld, Florence Pugh, Vera Farmiga",
+            "dirigida_por": "Rhys Thomas",
+            "poster": "https://m.media-amazon.com/images/I/81sI7C1DKrL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Spider-Man: No Way Home",
+            "año": 2021,
+            "sinopsis": "Peter Parker recurre al Doctor Strange para borrar su identidad secreta de la memoria del mundo, pero el hechizo sale mal y libera a los enemigos de Spider-Man de otras realidades.",
+            "protagonistas": "Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon",
+            "dirigida_por": "Jon Watts",
+            "poster": "https://m.media-amazon.com/images/I/71wZwpD95CL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Doctor Strange in the Multiverse of Madness",
+            "año": 2022,
+            "sinopsis": "Doctor Strange, con la ayuda de aliados místicos antiguos y nuevos, atraviesa las alucinantes y peligrosas realidades alternas del Multiverso para enfrentarse a un nuevo y misterioso adversario.",
+            "protagonistas": "Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong",
+            "dirigida_por": "Sam Raimi",
+            "poster": "https://m.media-amazon.com/images/I/81NuBN1rNwL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Ms. Marvel",
+            "año": 2022,
+            "sinopsis": "Kamala Khan, una adolescente musulmana estadounidense, descubre que tiene superpoderes y debe equilibrar su vida de estudiante con su identidad como superhéroe.",
+            "protagonistas": "Iman Vellani, Matt Lintz, Zenobia Shroff, Mohan Kapur",
+            "dirigida_por": "Adil El Arbi, Bilall Fallah",
+            "poster": "https://m.media-amazon.com/images/I/81aA-3NWexL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Thor: Love and Thunder",
+            "año": 2022,
+            "sinopsis": "Thor se embarca en una búsqueda por la paz interior, pero su retiro se ve interrumpido por Gorr el Dios Carnicero, un asesino galáctico que busca la extinción de los dioses.",
+            "protagonistas": "Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson",
+            "dirigida_por": "Taika Waititi",
+            "poster": "https://m.media-amazon.com/images/I/91aCzvlp+VL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "She-Hulk: Attorney at Law",
+            "año": 2022,
+            "sinopsis": "Jennifer Walters, abogada y prima de Bruce Banner, adquiere habilidades similares a Hulk y debe equilibrar su carrera legal con su vida como superheroína.",
+            "protagonistas": "Tatiana Maslany, Mark Ruffalo, Tim Roth, Ginger Gonzaga",
+            "dirigida_por": "Kat Coiro, Anu Valia",
+            "poster": "https://m.media-amazon.com/images/I/81vDmuFiwKL._AC_SY679_.jpg"
+          },
+          {
+            "nombre": "Black Panther: Wakanda Forever",
+            "año": 2022,
+            "sinopsis": "Los líderes de Wakanda luchan para proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa.",
+            "protagonistas": "Letitia Wright, Lupita Nyong'o, Danai Gurira, Winston Duke",
+            "dirigida_por": "Ryan Coogler",
+            "poster": "https://m.media-amazon.com/images/I/81GZbKgUGvL._AC_SY679_.jpg"
+          }
+        ],
+          "Fase 5": [
+            {
+              "nombre": "Ant-Man and The Wasp: Quantumania",
+              "año": 2023,
+              "sinopsis": "Scott Lang y Hope Van Dyne, junto con Hank Pym y Janet Van Dyne, exploran el Reino Cuántico, interactuando con extrañas criaturas y embarcándose en una aventura que va más allá de los límites de lo que pensaban que era posible.",
+              "protagonistas": "Paul Rudd, Evangeline Lilly, Michael Douglas, Michelle Pfeiffer",
+              "dirigida_por": "Peyton Reed",
+              "poster": "https://m.media-amazon.com/images/I/81xoxGwPSxL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Guardians of the Galaxy Vol. 3",
+              "año": 2023,
+              "sinopsis": "Los Guardianes deben luchar para proteger uno de los suyos mientras los secretos del pasado de Rocket salen a la luz.",
+              "protagonistas": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper",
+              "dirigida_por": "James Gunn",
+              "poster": "https://m.media-amazon.com/images/I/81XcKsb5riL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Secret Invasion",
+              "año": 2023,
+              "sinopsis": "Nick Fury y Talos descubren una invasión secreta de la Tierra por una facción de Skrulls que cambian de forma.",
+              "protagonistas": "Samuel L. Jackson, Ben Mendelsohn, Emilia Clarke, Olivia Colman",
+              "dirigida_por": "Ali Selim",
+              "poster": "https://m.media-amazon.com/images/I/81uS9s9BnPL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "The Marvels",
+              "año": 2023,
+              "sinopsis": "Carol Danvers, también conocida como Captain Marvel, se une a Monica Rambeau y Kamala Khan en una misión intergaláctica que conecta sus poderes.",
+              "protagonistas": "Brie Larson, Teyonah Parris, Iman Vellani, Samuel L. Jackson",
+              "dirigida_por": "Nia DaCosta",
+              "poster": "https://m.media-amazon.com/images/I/81+V9iz-W-L._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Echo",
+              "año": 2023,
+              "sinopsis": "Maya Lopez, también conocida como Echo, debe enfrentarse a su pasado, reconectar con sus raíces nativas americanas y abrazar el significado de la familia y la comunidad.",
+              "protagonistas": "Alaqua Cox, Zahn McClarnon, Vincent D'Onofrio, Charlie Cox",
+              "dirigida_por": "Sydney Freeland, Catriona McKenzie",
+              "poster": "https://m.media-amazon.com/images/I/81vDmuFiwKL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Loki Temporada 2",
+              "año": 2023,
+              "sinopsis": "Loki continúa sus aventuras a través del tiempo, lidiando con las consecuencias de sus acciones pasadas y enfrentándose a nuevas amenazas temporales.",
+              "protagonistas": "Tom Hiddleston, Owen Wilson, Sophia Di Martino, Gugu Mbatha-Raw",
+              "dirigida_por": "Justin Benson, Aaron Moorhead",
+              "poster": "https://m.media-amazon.com/images/I/81Eiq2zUIeL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Ironheart",
+              "año": 2023,
+              "sinopsis": "Riri Williams, una joven prodigio de la ingeniería, crea una armadura avanzada que rivaliza con la de Iron Man, y debe enfrentarse a nuevos desafíos mientras se convierte en una heroína.",
+              "protagonistas": "Dominique Thorne, Anthony Ramos, Lyric Ross, Alden Ehrenreich",
+              "dirigida_por": "Angela Barnes Gomes, Sam Bailey",
+              "poster": "https://m.media-amazon.com/images/I/81GZbKgUGvL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Blade",
+              "año": 2024,
+              "sinopsis": "Eric Brooks, también conocido como Blade, un cazador de vampiros mitad humano y mitad vampiro, lucha contra las criaturas de la noche para proteger a la humanidad.",
+              "protagonistas": "Mahershala Ali, Delroy Lindo, Aaron Pierre, Milan Ray",
+              "dirigida_por": "Bassam Tariq",
+              "poster": "https://m.media-amazon.com/images/I/81oQWTqM-QL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Agatha: Coven of Chaos",
+              "año": 2024,
+              "sinopsis": "Agatha Harkness, una poderosa bruja, navega por las complejidades del poder y la traición en un mundo lleno de magia y caos.",
+              "protagonistas": "Kathryn Hahn, Teyonah Parris, Emma Caulfield Ford, Debra Jo Rupp",
+              "dirigida_por": "Jac Schaeffer",
+              "poster": "https://m.media-amazon.com/images/I/81A1yyQ7kQL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Daredevil: Born Again",
+              "año": 2024,
+              "sinopsis": "Matt Murdock, también conocido como Daredevil, enfrenta nuevos enemigos y desafíos mientras intenta equilibrar su vida como abogado y vigilante en Hell's Kitchen.",
+              "protagonistas": "Charlie Cox, Vincent D'Onofrio, Deborah Ann Woll, Elden Henson",
+              "dirigida_por": "Michael Cuesta",
+              "poster": "https://m.media-amazon.com/images/I/81V05l5EDyL._AC_SY679_.jpg"
+            },
+            {
+              "nombre": "Captain America: Brave New World",
+              "año": 2024,
+              "sinopsis": "Sam Wilson, el nuevo Captain America, se enfrenta a desafíos globales y domésticos mientras lucha por mantener vivo el legado de Steve Rogers.",
+              "protagonistas": "Anthony Mackie, Sebastian Stan, Wyatt Russell, Emily VanCamp",
+              "dirigida_por": "Julius Onah",
+              "poster": "https://m.media-amazon.com/images/I/81JgZ4dfSSL._AC_SY679_.jpg"
+            }
+          ]
+        
+}
