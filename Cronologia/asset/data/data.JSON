@@ -1,0 +1,194 @@
+[
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Capitán América: El primer vengador",
+        "año": 2011,
+        "sinopsis": "Durante la Segunda Guerra Mundial, Steve Rogers se convierte en el superhéroe Capitán América para luchar contra las fuerzas del mal."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Capitana Marvel",
+        "año": 2019,
+        "sinopsis": "Ambientada en los años 90, sigue la historia de Carol Danvers y su transformación en una de las heroínas más poderosas del universo."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Iron Man",
+        "año": 2008,
+        "sinopsis": "Tony Stark, un multimillonario fabricante de armas, se convierte en el superhéroe Iron Man tras construir una armadura avanzada."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Iron Man 2",
+        "año": 2010,
+        "sinopsis": "Tony Stark enfrenta nuevas amenazas mientras lucha por mantener su tecnología fuera de las manos equivocadas."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "El increíble Hulk",
+        "año": 2008,
+        "sinopsis": "Bruce Banner busca una cura para su transformación en Hulk mientras es perseguido por el ejército."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Thor",
+        "año": 2011,
+        "sinopsis": "El dios del trueno, Thor, es desterrado a la Tierra y debe demostrar su valía para recuperar su poder."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Los Vengadores",
+        "año": 2012,
+        "sinopsis": "Los héroes más poderosos de la Tierra se unen para enfrentar la amenaza de Loki y su ejército alienígena."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Iron Man 3",
+        "año": 2013,
+        "sinopsis": "Tony Stark enfrenta a un nuevo enemigo, el Mandarín, mientras lidia con las consecuencias de sus acciones pasadas."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Thor: El mundo oscuro",
+        "año": 2013,
+        "sinopsis": "Thor debe salvar los Nueve Reinos de una antigua raza liderada por el elfo oscuro Malekith."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Capitán América: El soldado de invierno",
+        "año": 2014,
+        "sinopsis": "Steve Rogers se enfrenta a un nuevo enemigo, el Soldado de Invierno, mientras descubre una conspiración dentro de S.H.I.E.L.D."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Guardianes de la Galaxia",
+        "año": 2014,
+        "sinopsis": "Un grupo de inadaptados se une para proteger un poderoso artefacto y salvar la galaxia."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Guardianes de la Galaxia Vol. 2",
+        "año": 2017,
+        "sinopsis": "Los Guardianes continúan sus aventuras mientras descubren los secretos del pasado de Peter Quill."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Vengadores: La era de Ultrón",
+        "año": 2015,
+        "sinopsis": "Los Vengadores deben detener a Ultrón, una inteligencia artificial creada por Tony Stark que amenaza con destruir la humanidad."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Ant-Man",
+        "año": 2015,
+        "sinopsis": "Scott Lang se convierte en Ant-Man y debe ayudar a su mentor, Hank Pym, a proteger la tecnología de reducción."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Capitán América: Civil War",
+        "año": 2016,
+        "sinopsis": "Los Vengadores se dividen en dos facciones enfrentadas por la regulación gubernamental de los superhéroes."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Black Widow",
+        "año": 2021,
+        "sinopsis": "Natasha Romanoff enfrenta su oscuro pasado y una peligrosa conspiración mientras intenta derribar la Sala Roja."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Spider-Man: Homecoming",
+        "año": 2017,
+        "sinopsis": "Peter Parker intenta equilibrar su vida como estudiante de secundaria y superhéroe mientras enfrenta al villano Buitre."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Black Panther",
+        "año": 2018,
+        "sinopsis": "T'Challa regresa a Wakanda para asumir el trono y defender su nación de enemigos internos y externos."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Doctor Strange",
+        "año": 2016,
+        "sinopsis": "El neurocirujano Stephen Strange descubre el mundo de la magia y las dimensiones alternativas tras un accidente que arruina su carrera."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Thor: Ragnarok",
+        "año": 2017,
+        "sinopsis": "Thor debe escapar del planeta Sakaar y detener el Ragnarok, la destrucción de Asgard, a manos de Hela."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Ant-Man y la Avispa",
+        "año": 2018,
+        "sinopsis": "Scott Lang se une a Hope van Dyne, la Avispa, para una misión urgente que revela secretos del pasado."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Vengadores: Infinity War",
+        "año": 2018,
+        "sinopsis": "Los Vengadores y sus aliados deben detener a Thanos, quien busca reunir las Gemas del Infinito para destruir la mitad del universo."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Vengadores: Endgame",
+        "año": 2019,
+        "sinopsis": "Los Vengadores restantes intentan revertir el daño causado por Thanos y restaurar el universo."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Spider-Man: Lejos de casa",
+        "año": 2019,
+        "sinopsis": "Peter Parker se enfrenta a nuevos desafíos y enemigos durante un viaje escolar a Europa."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Shang-Chi y la leyenda de los Diez Anillos",
+        "año": 2021,
+        "sinopsis": "Shang-Chi debe confrontar el pasado que pensó haber dejado atrás cuando se ve envuelto en la red de la misteriosa organización de los Diez Anillos."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Eternals",
+        "año": 2021,
+        "sinopsis": "Un grupo de seres inmortales debe reunirse para proteger la Tierra de los Deviants, una raza alienígena."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Spider-Man: No Way Home",
+        "año": 2021,
+        "sinopsis": "Peter Parker busca la ayuda de Doctor Strange para restaurar su identidad secreta, pero las cosas salen mal y se desatan peligros del multiverso."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Doctor Strange en el multiverso de la locura",
+        "año": 2022,
+        "sinopsis": "Doctor Strange navega por el multiverso para enfrentar una nueva amenaza que pone en peligro la realidad misma."
+    },
+    {
+        "imagen": "ruta/a/la/imagen",
+        "pelicula": "Thor: Love and Thunder",
+        "año": 2022,
+        "sinopsis": "Thor busca la paz interior, pero debe regresar a la acción para detener a Gorr, el Carnicero de Dioses."
+    },
+    {
+       "pelicula": "Black Panther: Wakanda Forever",
+        "año": 2022,
+        "sinopsis": "Los habitantes de Wakanda luchan para proteger su hogar de las potencias mundiales mientras lloran la muerte del Rey T'Challa.",
+        "imagen": "ruta/a/la/imagen/black_panther_wakanda_forever.jpg"
+    },
+    {
+        "pelicula": "Ant-Man y la Avispa: Quantumania",
+        "año": 2023,
+        "sinopsis": "Scott Lang y Hope Van Dyne son arrastrados al Reino Cuántico, donde deben encontrar una manera de escapar mientras descubren los secretos que esconde.",
+        "imagen": "ruta/a/la/imagen/ant_man_quantumania.jpg"
+    },
+    {
+        "pelicula": "Guardianes de la Galaxia Vol. 3",
+        "año": 2023,
+        "sinopsis": "Los Guardianes de la Galaxia se embarcan en una misión para proteger el universo y enfrentar nuevos desafíos que pondrán a prueba su unidad.",
+        "imagen": "ruta/a/la/imagen/guardianes_galaxia_vol_3.jpg"
+    }
+]

@@ -1,0 +1,60 @@
+
+
+.card:hover {
+    transform: scale(1.05); /* Efecto de zoom al pasar el ratón */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Efecto de sombra al pasar el ratón */
+}
+
+/* Estilos únicos para cada tarjeta */
+.card-1 {
+    background-color: #e8eef0; 
+    border: 1px solid #d3c6f5; 
+}
+.card-2 {
+    background-color: #47d669; 
+    border: 1px solid #c3e6cb; 
+}
+
+.card-3 {
+    background-color: #db24ae; 
+    border: 1px solid #16515a; 
+}
+.card-4 {
+    background-color: black; 
+    border: 1px solid black ; 
+    color: rgb(15, 15, 15); 
+}
+
+.card-5 {
+    background-color: #d4edda; 
+    border: 1px solid #c3e6cb; 
+}
+
+.card-6 {
+    background-color: #26c3ce; 
+    border: 1px solid #bee5eb; 
+}
+
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem; /* Espacio entre columnas */
+}
+
+.col-md-4 {
+    flex: 0 0 calc(50% - 1rem); /* Ajusta el ancho para dos columnas */
+    max-width: calc(50% - 1rem); /* Ajusta el ancho máximo para dos columnas */
+}
+
+.card {
+    margin-bottom: 1rem; /* Espacio debajo de cada tarjeta */
+}
+
+body {
+    background-color: black;
+    color: rgb(243, 241, 241); /* Opcional: para asegurarte de que el texto sea legible sobre el fondo negro */
+}
+
+

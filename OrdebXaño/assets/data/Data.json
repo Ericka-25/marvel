@@ -1,0 +1,44 @@
+[
+
+    {
+        "nombre": "Iron Man 1",
+        "Año": "2008",
+        "sinopsis": "Al regresar a los Estados Unidos, Stark revela su experiencia y decide cambiar el enfoque de su empresa para enfocarse en la tecnología de defensa y la paz mundial, dejando atrás la fabricación de armas. Él perfecciona la armadura que creó en cautiverio, desarrollando la primera versión de la icónica armadura de Iron Man...",
+        "imagen": "assets/Imagenes/Iron Man1.jpg"
+    },
+    {
+        "nombre": "El increible Hulk",
+        "Año": 2008,
+        "sinopsis": "Bruce Banner, un científico que experimentó con rayos gamma, se transforma en el monstruoso Hulk cuando se enfurece. Desesperado por encontrar una cura para su condición y evitar ser capturado por el gobierno de los Estados Unidos, Banner vive en el exilio. En su búsqueda para desactivar la amenaza de Hulk, se enfrenta a un nuevo enemigo: el Abominación, una criatura creada a partir del mismo experimento que lo transformó...",
+        "imagen": "assets/Imagenes/Hulk1.jpg"
+    },
+
+
+    {  "nombre": "Capitan America: El Primer Vengador",
+        "Año": 2011,
+        "sinopsis": "Durante la Segunda Guerra Mundial, el joven y frágil Steve Rogers desea fervientemente unirse al ejército y luchar contra las fuerzas del Eje. Tras ser seleccionado para un experimento secreto, Rogers es transformado en el supersoldado Capitán América, con una fuerza y agilidad sobrehumanas. Armado con su escudo indestructible..." ,
+        "imagen": "assets/Imagenes/Capitan America1.jpg"
+        
+     },
+     
+     {  "nombre": "Thor",
+     "Año": 2011,
+     "sinopsis": "Thor, el poderoso Dios del Trueno, es un guerrero valiente y arrogante que vive en el reino de Asgard. Tras desobedecer las órdenes de su padre, el rey Odin, y provocar una guerra con los Jotunheim, Thor es castigado y enviado a la Tierra sin sus poderes.Mientras tanto, una amenaza más oscura se cierne sobre ambos mundos, y Thor debe enfrentar desafíos tanto en la Tierra como en su hogar celestial..",
+     "imagen": "assets/Imagenes/Thor1.jpg"
+    },
+
+    
+    {  "nombre": "Thor:El Mundo Oscuro",
+ "Año": 2013,
+ "sinopsis": "Tras los eventos de Los Vengadores, Thor regresa a Asgard y trabaja para restaurar el orden en los Nueve Reinos. Sin embargo, una antigua raza liderada por el vengativo Malekith, despierta para sumir al universo en la oscuridad. Malekith, el líder de los Elfos Oscuros, busca una poderosa arma conocida como el Aether para destruir los Nueve Reinos y vengar a su gente..",
+ "imagen": "assets/Imagenes/thor2.jpg"
+},
+{
+    "nombre": "Iron Man 3",
+    "Año": "2013",
+    "sinopsis": "Cuando la mansión de Stark es destruida y su mundo personal es devastado, él se embarca en una misión de venganza y redención. A medida que investiga los ataques, Stark descubre una siniestra conspiración que involucra a su rival industrial Aldrich Killian y el letal virus Extremis, que otorga habilidades sobrehumanas a sus víctimas..",
+    "imagen": "assets/Imagenes/Iron Man3.jpg"
+}
+
+
+]
